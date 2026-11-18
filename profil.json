@@ -1,0 +1,16 @@
+
+{
+  "jmeno": "Rytir",
+  "vek": 25,
+  "je_plnolety": true,
+  "poznamka": null,
+  "vybava": {
+    "zbran": "Mec",
+    "brneni": "Zelezne brneni"
+  },
+  "dovednosti": [
+    "boj s mecem",
+    "obrana",
+    "lukostrelba"
+  ]
+}
